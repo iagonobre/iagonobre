@@ -13,7 +13,7 @@
 
 👨‍💻 Hi, I'm a developer student.
   
-🚀 All of my projects are available at my [portfolio](google.com)
+🚀 All of my projects are available at my [portfolio](google.com).
 </b></h4>
 
 
