@@ -29,8 +29,8 @@
 <h4><b>⚙️ GitHub Analytics</b></h4>
   
 <p align="left">
-<img width="285em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagonobre&layout=compact&theme=jolly" alt="iagonobre's most languages"/>
-<img width="338em" src="https://github-readme-stats.vercel.app/api?username=iagonobre&show_icons=true&theme=jolly" alt="iagonobre's stats"/>
+<img width="295em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagonobre&layout=compact&theme=jolly" alt="iagonobre's most languages"/>
+<img width="348em" src="https://github-readme-stats.vercel.app/api?username=iagonobre&show_icons=true&theme=jolly" alt="iagonobre's stats"/>
 </p>
 
 <br><br>
