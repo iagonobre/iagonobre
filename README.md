@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="10px">Hello, I am Iago</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Hello, I am Iago</h1>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=iagonobre&color=6b3b8b&style=flat-square" alt="Profile views" />
