@@ -13,7 +13,6 @@
 
 👨‍💻 Hi, I'm a developer student.
   
-🚀 All of my projects are available at my [portfolio](https://www.instagram.com/iagonobre.dev/).
 </b></h4>
 
 
