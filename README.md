@@ -28,13 +28,13 @@
 <img height="28" src="https://img.shields.io/badge/node.js-6b3b8b?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
 <img height="28" src="https://img.shields.io/badge/Next-6b3b8b?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
   
-<br>
+<!-- <br>
 
 <h4><b>⚙️ GitHub Analytics</b></h4>
   
 <p align="left">
 <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagonobre&layout=compact&theme=jolly" alt="iagonobre's most languages"/>
 <img width="358em" src="https://github-readme-stats.vercel.app/api?username=iagonobre&show_icons=true&theme=jolly" alt="iagonobre's stats"/>
-</p>
+</p> -->
 
 <br><br>
