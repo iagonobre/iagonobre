@@ -2,8 +2,8 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=iagonobre&color=6b3b8b&style=flat-square" alt="Profile views" />
- <a href="https://www.linkedin.com/in/iago-nobre-41b26b1b1/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-IagoNobre-6b3b8b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-nobre-41b26b1b1/"/>
+ <a href="https://www.linkedin.com/in/iagon/" target="_blank">
+  <img src="https://img.shields.io/badge/-IagoNobre-6b3b8b?style=flat-square&logo=linkedin&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/iagonobre.dev/">
   <img alt="Instagram" src="https://img.shields.io/badge/-@iagonobre.dev-6b3b8b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iagonobre.dev/" />
@@ -11,7 +11,7 @@
 </p>
 
 
-👨‍💻 Hi, I'm a developer student.
+👨‍💻 Hi, I'm a frontend developer.
   
 </b></h4>
 
